@@ -51,14 +51,8 @@ Below is a summary of the development roadmap using Agile epics, user stories, a
 - Edit or delete one’s own review
 - Display average rating per place
 
-### Epic 4: User Dashboard
-**Goal**: Provide a personal dashboard showing all reviews and ratings left by the user.
 
-**User Stories**
-- View all personal reviews in one place
-- Edit or remove reviews from the dashboard
-
-### Epic 5: Accessibility Features
+### Epic 4: Accessibility Features
 **Goal**: Ensure the application is usable for individuals with diverse needs.
 
 **User Stories**
@@ -67,11 +61,18 @@ Below is a summary of the development roadmap using Agile epics, user stories, a
 - Ensure color contrast meets accessibility standards
 - Use ARIA roles and properties to enhance screen reader support
 
-### Epic 6: Admin Panel
+### Epic 5: Admin Panel
 **Goal**: Create an admin interface for managing users, reviews, and establishments.
 
 **User Stories**
 - View all user accounts and their activity
+
+### Epic 6: User Dashboard (Strech Goal)
+**Goal**: Provide a personal dashboard showing all reviews and ratings left by the user.
+
+**User Stories**
+- View all personal reviews in one place
+- Edit or remove reviews from the dashboard
 
 ---
 
